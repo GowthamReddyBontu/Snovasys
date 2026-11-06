@@ -1,12 +1,12 @@
-# BalanceVault – Money Movement with a Ledger You Can Prove
+# FinovaultX – Secure Money Movement with a Verifiable Ledger
 
-**BalanceVault** is a secure financial transaction management system designed to ensure that money transfers are accurate, traceable, and protected against duplicate requests and concurrent transaction errors.
+**FinovaultX** is a secure financial transaction management system designed to ensure that money transfers are accurate, traceable, and protected against duplicate requests and concurrent transaction errors.
 
 ## 🎯 Problem Statement
 
 Financial systems must guarantee that money is never accidentally created, lost, or transferred twice.
 
-BalanceVault aims to solve these challenges using double-entry bookkeeping, database transaction management, idempotency, concurrency control, and role-based access control.
+FinovaultX aims to solve these challenges using double-entry bookkeeping, database transaction management, idempotency, concurrency control, and role-based access control.
 
 ## 🚀 Planned Features
 
@@ -60,7 +60,7 @@ BalanceVault aims to solve these challenges using double-entry bookkeeping, data
 ## 🔐 Core Financial Integrity Principles
 
 1. Total debits must always equal total credits.
-2. A transaction must be atomic.
+2. Every financial transaction must be atomic.
 3. The same idempotency key must never execute a transfer twice.
 4. Concurrent transactions must not cause account overdrafts.
 5. Completed ledger entries must not be silently modified or deleted.
