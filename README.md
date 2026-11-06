@@ -1,12 +1,12 @@
-# LedgerLine – Money Movement with a Ledger You Can Prove
+# BalanceVault – Money Movement with a Ledger You Can Prove
 
-**LedgerLine** is a secure financial transaction management system designed to ensure that money transfers are accurate, traceable, and protected against duplicate requests and concurrent transaction errors.
+**BalanceVault** is a secure financial transaction management system designed to ensure that money transfers are accurate, traceable, and protected against duplicate requests and concurrent transaction errors.
 
 ## 🎯 Problem Statement
 
 Financial systems must guarantee that money is never accidentally created, lost, or transferred twice.
 
-LedgerLine aims to solve these challenges using double-entry bookkeeping, database transaction management, idempotency, concurrency control, and role-based access control.
+BalanceVault aims to solve these challenges using double-entry bookkeeping, database transaction management, idempotency, concurrency control, and role-based access control.
 
 ## 🚀 Planned Features
 
